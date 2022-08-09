@@ -1,0 +1,111 @@
+2022-07-19 20:30:53,957 INFO The first token was generated, the token is: IOyAY-N9NORDCLWFKqkecknhNVbFW5vepr1Cqo1SzeezNCxgvt455KuThGLY18Y62tOkikRkAQcv3rrCjEQc5Q save the token in a secure place
+2022-07-19 20:32:21,263 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:32:40,492 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:33:03,422 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:33:50,455 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:34:13,700 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:34:23,060 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:40:25,328 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:41:31,518 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:42:54,430 INFO The first token was generated, the token is: S8iSNz9Pt7Ns62wmhnv4oT09ssQR-G4yldbHpFe7giQsgZPAmIGTZbSoxyGD5q_WHL-H6YRxKT_E2ccDDVW6qw save the token in a secure place
+2022-07-19 20:43:44,429 INFO The first token was generated, the token is: LDry_-POfEWcYOTNX3HX4x4BiHRalgmjWgiaAO1rgXQX8mD_ihit7Cogh5o_3Z72hD9jqdK6l5ExMcySzALEZA save the token in a secure place
+2022-07-19 20:49:19,988 INFO The tables were created or already exists
+2022-07-19 20:49:19,991 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:49:19,991 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:49:19,995 INFO The processes were started and the API server is running
+2022-07-19 20:49:19,997 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:49:20,176 INFO Started server process [2474]
+2022-07-19 20:49:20,178 INFO Waiting for application startup.
+2022-07-19 20:49:20,179 INFO Application startup complete.
+2022-07-19 20:49:20,180 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:50:41,680 INFO Shutting down
+2022-07-19 20:50:41,781 INFO Waiting for application shutdown.
+2022-07-19 20:50:41,781 INFO Application shutdown complete.
+2022-07-19 20:50:41,782 INFO Finished server process [2474]
+2022-07-19 20:50:43,116 INFO The tables were created or already exists
+2022-07-19 20:50:43,119 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:50:43,119 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:50:43,123 INFO The processes were started and the API server is running
+2022-07-19 20:50:43,125 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 20:50:43,313 INFO Started server process [2538]
+2022-07-19 20:50:43,315 INFO Waiting for application startup.
+2022-07-19 20:50:43,315 INFO Application startup complete.
+2022-07-19 20:50:43,316 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:05:29,095 INFO Shutting down
+2022-07-19 21:05:29,199 INFO Waiting for application shutdown.
+2022-07-19 21:05:29,201 INFO Application shutdown complete.
+2022-07-19 21:05:29,202 INFO Finished server process [2538]
+2022-07-19 21:05:30,372 INFO The tables were created or already exists
+2022-07-19 21:05:30,377 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:05:30,378 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:05:30,386 INFO The processes were started and the API server is running
+2022-07-19 21:05:30,389 ERROR Could not save the first token please, check the database connection in the file config.ini
+2022-07-19 21:05:30,647 INFO Started server process [2881]
+2022-07-19 21:05:30,649 INFO Waiting for application startup.
+2022-07-19 21:05:30,650 INFO Application startup complete.
+2022-07-19 21:05:30,651 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:07:05,598 INFO Shutting down
+2022-07-19 21:07:05,699 INFO Waiting for application shutdown.
+2022-07-19 21:07:05,699 INFO Application shutdown complete.
+2022-07-19 21:07:05,700 INFO Finished server process [2881]
+2022-07-19 21:07:06,544 INFO The tables were created or already exists
+2022-07-19 21:07:06,547 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:07:06,547 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:07:06,552 INFO The processes were started and the API server is running
+2022-07-19 21:07:06,558 INFO The first token was generated, the token is: _5G_qLMhIPyrVyMlfrQgITIfLOBOlkogt0aODtUYCDcZchHD-SP3iXFWcctMTwogYIuKrzG4V-xEW9M_cgyzdg save it in a secure place
+2022-07-19 21:07:06,691 INFO Started server process [2944]
+2022-07-19 21:07:06,692 INFO Waiting for application startup.
+2022-07-19 21:07:06,693 INFO Application startup complete.
+2022-07-19 21:07:06,694 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:07:34,803 INFO Shutting down
+2022-07-19 21:07:34,904 INFO Waiting for application shutdown.
+2022-07-19 21:07:34,905 INFO Application shutdown complete.
+2022-07-19 21:07:34,905 INFO Finished server process [2944]
+2022-07-19 21:07:35,640 INFO The tables were created or already exists
+2022-07-19 21:07:35,643 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:07:35,643 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:07:35,648 INFO The processes were started and the API server is running
+2022-07-19 21:07:35,654 INFO The first token was generated, the token is: 2rVvU0yqdWrMn4Ss6RGjFp5wa2mZtzDkmL1ope-Rox9CUXP46dBjG7KTXrBc30SztYoJ_G1CEbEA7Hs44qsUVA save it in a secure place
+2022-07-19 21:07:35,799 INFO Started server process [2992]
+2022-07-19 21:07:35,801 INFO Waiting for application startup.
+2022-07-19 21:07:35,801 INFO Application startup complete.
+2022-07-19 21:07:35,802 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:10:27,820 INFO Shutting down
+2022-07-19 21:10:27,921 INFO Waiting for application shutdown.
+2022-07-19 21:10:27,922 INFO Application shutdown complete.
+2022-07-19 21:10:27,922 INFO Finished server process [2992]
+2022-07-19 21:11:28,249 INFO The tables were created or already exists
+2022-07-19 21:11:28,253 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:11:28,254 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:11:28,258 INFO The processes were started and the API server is running
+2022-07-19 21:11:28,260 WARNING The first token already exists
+2022-07-19 21:11:28,434 INFO Started server process [3081]
+2022-07-19 21:11:28,436 INFO Waiting for application startup.
+2022-07-19 21:11:28,438 INFO Application startup complete.
+2022-07-19 21:11:28,439 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:12:09,696 INFO Shutting down
+2022-07-19 21:12:09,797 INFO Waiting for application shutdown.
+2022-07-19 21:12:09,798 INFO Application shutdown complete.
+2022-07-19 21:12:09,799 INFO Finished server process [3081]
+2022-07-19 21:12:10,917 INFO The tables were created or already exists
+2022-07-19 21:12:10,921 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:12:10,921 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:12:10,926 INFO The processes were started and the API server is running
+2022-07-19 21:12:10,934 INFO The first token was created
+2022-07-19 21:12:11,091 INFO Started server process [3128]
+2022-07-19 21:12:11,093 INFO Waiting for application startup.
+2022-07-19 21:12:11,096 INFO Application startup complete.
+2022-07-19 21:12:11,098 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 21:12:21,738 INFO Shutting down
+2022-07-19 21:12:21,839 INFO Waiting for application shutdown.
+2022-07-19 21:12:21,840 INFO Application shutdown complete.
+2022-07-19 21:12:21,841 INFO Finished server process [3128]
+2022-07-19 21:12:23,921 INFO The tables were created or already exists
+2022-07-19 21:12:23,925 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 21:12:23,926 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 21:12:23,930 INFO The processes were started and the API server is running
+2022-07-19 21:12:23,931 WARNING The first token already exists
+2022-07-19 21:12:24,128 INFO Started server process [3165]
+2022-07-19 21:12:24,130 INFO Waiting for application startup.
+2022-07-19 21:12:24,130 INFO Application startup complete.
+2022-07-19 21:12:24,132 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)

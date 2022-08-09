@@ -1,0 +1,802 @@
+2022-07-16 13:48:17,910 INFO Connected to the PostgreSQL database
+2022-07-16 13:48:17,934 INFO Created the checks table
+2022-07-16 13:48:17,943 INFO Created the sites table
+2022-07-16 13:48:17,952 INFO Created the endpoints table
+2022-07-16 13:48:17,954 INFO No sites with 30s interval
+2022-07-16 13:48:17,955 INFO No sites with 60s interval
+2022-07-16 13:48:23,781 INFO Connected to the PostgreSQL database
+2022-07-16 13:48:23,795 INFO Created the checks table
+2022-07-16 13:48:23,803 INFO Created the sites table
+2022-07-16 13:48:23,811 INFO Created the endpoints table
+2022-07-16 13:48:23,813 INFO No sites with 30s interval
+2022-07-16 13:48:23,814 INFO No sites with 60s interval
+2022-07-16 13:49:07,060 INFO Connected to the PostgreSQL database
+2022-07-16 13:49:07,071 INFO Created the checks table
+2022-07-16 13:49:07,080 INFO Created the sites table
+2022-07-16 13:49:07,094 INFO Created the endpoints table
+2022-07-16 13:49:07,096 INFO No sites with 30s interval
+2022-07-16 13:49:07,097 INFO No sites with 60s interval
+2022-07-16 13:50:21,152 INFO Connected to the PostgreSQL database
+2022-07-16 13:50:21,163 INFO Created the checks table
+2022-07-16 13:50:21,172 INFO Created the sites table
+2022-07-16 13:50:21,180 INFO Created the endpoints table
+2022-07-16 13:50:21,182 INFO No sites with 30s interval
+2022-07-16 13:50:21,183 INFO No sites with 60s interval
+2022-07-16 13:56:47,550 INFO Created the checks table
+2022-07-16 13:56:47,559 INFO Created the sites table
+2022-07-16 13:56:47,567 INFO Created the endpoints table
+2022-07-16 13:56:47,569 INFO 30s sites: []
+2022-07-16 13:56:47,570 INFO 60s sites: []
+2022-07-16 14:03:23,603 INFO Created the checks table
+2022-07-16 14:03:23,618 INFO Created the sites table
+2022-07-16 14:03:23,634 INFO Created the endpoints table
+2022-07-16 14:03:23,637 INFO 30s sites: []
+2022-07-16 14:03:23,637 INFO 60s sites: []
+2022-07-16 14:04:09,970 INFO Created the checks table
+2022-07-16 14:04:09,981 INFO Created the sites table
+2022-07-16 14:04:09,991 INFO Created the endpoints table
+2022-07-16 14:04:09,995 INFO 30s sites: []
+2022-07-16 14:04:09,995 INFO 60s sites: []
+2022-07-16 14:06:41,307 INFO Created the checks table
+2022-07-16 14:06:41,317 INFO Created the sites table
+2022-07-16 14:06:41,326 INFO Created the endpoints table
+2022-07-16 14:06:57,995 INFO Created the checks table
+2022-07-16 14:06:58,004 INFO Created the sites table
+2022-07-16 14:06:58,013 INFO Created the endpoints table
+2022-07-16 14:06:58,021 INFO 30s sites: []
+2022-07-16 14:06:58,022 INFO 60s sites: []
+2022-07-16 14:12:48,785 INFO Created the checks table
+2022-07-16 14:12:48,786 INFO Created the sites table
+2022-07-16 14:12:48,787 INFO Created the endpoints table
+2022-07-16 14:12:48,790 INFO 30s sites: []
+2022-07-16 14:12:48,791 INFO 60s sites: []
+2022-07-16 14:15:29,276 INFO The table was created or already exists
+2022-07-16 14:15:29,277 INFO The table was created or already exists
+2022-07-16 14:15:29,279 INFO The table was created or already exists
+2022-07-16 14:15:29,283 INFO 30s sites: [('cduser',)]
+2022-07-16 14:15:29,284 INFO 60s sites: []
+2022-07-16 14:16:43,251 INFO The table was created or already exists
+2022-07-16 14:16:43,253 INFO The table was created or already exists
+2022-07-16 14:16:43,254 INFO The table was created or already exists
+2022-07-16 14:16:43,258 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:16:43,258 INFO 60s interval sites: []
+2022-07-16 14:25:12,979 INFO The table was created or already exists
+2022-07-16 14:25:12,980 INFO The table was created or already exists
+2022-07-16 14:25:12,982 INFO The table was created or already exists
+2022-07-16 14:25:12,987 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:25:12,987 INFO 60s interval sites: []
+2022-07-16 14:36:41,771 INFO The table was created or already exists
+2022-07-16 14:36:41,772 INFO The table was created or already exists
+2022-07-16 14:36:41,774 INFO The table was created or already exists
+2022-07-16 14:36:41,777 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:36:41,778 INFO 60s interval sites: []
+2022-07-16 14:37:22,715 INFO The table was created or already exists
+2022-07-16 14:37:22,717 INFO The table was created or already exists
+2022-07-16 14:37:22,718 INFO The table was created or already exists
+2022-07-16 14:37:22,721 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:37:22,722 INFO 60s interval sites: []
+2022-07-16 14:37:46,075 INFO The table was created or already exists
+2022-07-16 14:37:46,076 INFO The table was created or already exists
+2022-07-16 14:37:46,078 INFO The table was created or already exists
+2022-07-16 14:37:46,082 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:37:46,082 INFO 60s interval sites: []
+2022-07-16 14:39:52,074 INFO The table was created or already exists
+2022-07-16 14:39:52,075 INFO The table was created or already exists
+2022-07-16 14:39:52,077 INFO The table was created or already exists
+2022-07-16 14:39:52,081 INFO 30s interval sites: [('cduser',)]
+2022-07-16 14:39:52,081 INFO 60s interval sites: []
+2022-07-16 14:39:52,086 INFO The processes were started
+2022-07-18 22:15:30,780 INFO The tables were created or already exists
+2022-07-18 22:15:30,795 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:15:30,795 INFO 60s interval sites: []
+2022-07-18 22:15:30,797 INFO The processes were started
+2022-07-18 22:15:31,040 INFO Started server process [329]
+2022-07-18 22:15:31,042 INFO Waiting for application startup.
+2022-07-18 22:15:31,043 INFO Application startup complete.
+2022-07-18 22:15:31,044 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:15:59,837 ERROR Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/nacho/.local/lib/python3.8/site-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/nacho/.local/lib/python3.8/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/home/nacho/.local/lib/python3.8/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/home/nacho/.local/lib/python3.8/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/home/nacho/.local/lib/python3.8/site-packages/fastapi/routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "/home/nacho/.local/lib/python3.8/site-packages/fastapi/routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/mnt/c/Users/nacho/github/vibora/api.py", line 73, in ping
+    url = cur.execute("SELECT url FROM sites WHERE name = %s", (name,))
+psycopg2.errors.UndefinedColumn: column "url" does not exist
+LINE 1: SELECT url FROM sites WHERE name = 'cduser.com'
+               ^
+
+2022-07-18 22:18:47,500 INFO Shutting down
+2022-07-18 22:18:47,601 INFO Waiting for application shutdown.
+2022-07-18 22:18:47,601 INFO Application shutdown complete.
+2022-07-18 22:18:47,602 INFO Finished server process [329]
+2022-07-18 22:20:04,355 INFO The tables were created or already exists
+2022-07-18 22:20:04,358 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:20:04,359 INFO 60s interval sites: []
+2022-07-18 22:20:04,360 INFO The processes were started
+2022-07-18 22:20:04,362 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:20:04,364 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:20:04,365 INFO Started reloader process [411] using statreload
+2022-07-18 22:20:04,568 INFO The tables were created or already exists
+2022-07-18 22:20:04,571 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:20:04,571 INFO 60s interval sites: []
+2022-07-18 22:20:04,573 INFO The processes were started
+2022-07-18 22:20:04,744 INFO Started server process [417]
+2022-07-18 22:20:04,746 INFO Waiting for application startup.
+2022-07-18 22:20:04,746 INFO Application startup complete.
+2022-07-18 22:21:45,626 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 22:21:45,642 INFO Shutting down
+2022-07-18 22:21:45,743 INFO Waiting for application shutdown.
+2022-07-18 22:21:45,744 INFO Application shutdown complete.
+2022-07-18 22:21:45,745 INFO Finished server process [417]
+2022-07-18 22:21:45,993 INFO The tables were created or already exists
+2022-07-18 22:21:45,997 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:21:45,998 INFO 60s interval sites: []
+2022-07-18 22:21:46,001 INFO The processes were started
+2022-07-18 22:21:46,220 INFO Started server process [459]
+2022-07-18 22:21:46,221 INFO Waiting for application startup.
+2022-07-18 22:21:46,222 INFO Application startup complete.
+2022-07-18 22:22:34,854 WARNING StatReload detected file change in 'check.py'. Reloading...
+2022-07-18 22:22:34,864 INFO Shutting down
+2022-07-18 22:22:34,965 INFO Waiting for application shutdown.
+2022-07-18 22:22:34,966 INFO Application shutdown complete.
+2022-07-18 22:22:34,967 INFO Finished server process [459]
+2022-07-18 22:22:35,181 INFO The tables were created or already exists
+2022-07-18 22:22:35,184 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:22:35,184 INFO 60s interval sites: []
+2022-07-18 22:22:35,186 INFO The processes were started
+2022-07-18 22:22:35,341 INFO Started server process [483]
+2022-07-18 22:22:35,342 INFO Waiting for application startup.
+2022-07-18 22:22:35,343 INFO Application startup complete.
+2022-07-18 22:22:41,879 WARNING StatReload detected file change in 'check.py'. Reloading...
+2022-07-18 22:22:41,965 INFO Shutting down
+2022-07-18 22:22:42,066 INFO Waiting for application shutdown.
+2022-07-18 22:22:42,066 INFO Application shutdown complete.
+2022-07-18 22:22:42,067 INFO Finished server process [483]
+2022-07-18 22:22:42,277 INFO The tables were created or already exists
+2022-07-18 22:22:42,280 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:22:42,281 INFO 60s interval sites: []
+2022-07-18 22:22:42,282 INFO The processes were started
+2022-07-18 22:22:42,427 INFO Started server process [502]
+2022-07-18 22:22:42,428 INFO Waiting for application startup.
+2022-07-18 22:22:42,429 INFO Application startup complete.
+2022-07-18 22:24:52,503 WARNING StatReload detected file change in 'check.py'. Reloading...
+2022-07-18 22:24:52,511 INFO Shutting down
+2022-07-18 22:24:52,612 INFO Waiting for application shutdown.
+2022-07-18 22:24:52,613 INFO Application shutdown complete.
+2022-07-18 22:24:52,613 INFO Finished server process [502]
+2022-07-18 22:24:53,329 INFO Stopping reloader process [411]
+2022-07-18 22:27:26,410 INFO The tables were created or already exists
+2022-07-18 22:27:26,413 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:27:26,413 INFO 60s interval sites: []
+2022-07-18 22:27:26,415 INFO The processes were started
+2022-07-18 22:27:26,417 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:27:26,419 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:27:26,420 INFO Started reloader process [753] using statreload
+2022-07-18 22:27:26,614 INFO The tables were created or already exists
+2022-07-18 22:27:26,618 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:27:26,618 INFO 60s interval sites: []
+2022-07-18 22:27:26,621 INFO The processes were started
+2022-07-18 22:27:26,840 INFO Started server process [758]
+2022-07-18 22:27:26,842 INFO Waiting for application startup.
+2022-07-18 22:27:26,843 INFO Application startup complete.
+2022-07-18 22:29:19,473 INFO Shutting down
+2022-07-18 22:29:19,574 INFO Waiting for application shutdown.
+2022-07-18 22:29:19,574 INFO Application shutdown complete.
+2022-07-18 22:29:19,574 INFO Finished server process [758]
+2022-07-18 22:29:19,804 INFO Stopping reloader process [753]
+2022-07-18 22:34:24,596 INFO The tables were created or already exists
+2022-07-18 22:34:24,599 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:34:24,599 INFO 60s interval sites: []
+2022-07-18 22:34:24,601 INFO The processes were started
+2022-07-18 22:34:24,602 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:34:24,604 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:34:24,606 INFO Started reloader process [884] using statreload
+2022-07-18 22:34:24,768 INFO The tables were created or already exists
+2022-07-18 22:34:24,771 INFO 30s interval sites: [('cduser',)]
+2022-07-18 22:34:24,771 INFO 60s interval sites: []
+2022-07-18 22:34:24,773 INFO The processes were started
+2022-07-18 22:34:24,916 INFO Started server process [888]
+2022-07-18 22:34:24,917 INFO Waiting for application startup.
+2022-07-18 22:34:24,918 INFO Application startup complete.
+2022-07-18 22:35:30,991 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 22:35:31,011 INFO Shutting down
+2022-07-18 22:35:31,112 INFO Waiting for application shutdown.
+2022-07-18 22:35:31,113 INFO Application shutdown complete.
+2022-07-18 22:35:31,113 INFO Finished server process [888]
+2022-07-18 22:35:31,319 INFO The tables were created or already exists
+2022-07-18 22:35:31,321 INFO 30s interval sites: []
+2022-07-18 22:35:31,322 INFO No sites with 30s interval
+2022-07-18 22:35:31,322 INFO No sites with 60s interval
+2022-07-18 22:35:31,324 INFO The processes were started
+2022-07-18 22:35:31,463 INFO Started server process [975]
+2022-07-18 22:35:31,465 INFO Waiting for application startup.
+2022-07-18 22:35:31,465 INFO Application startup complete.
+2022-07-18 22:35:34,990 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 22:35:35,077 INFO Shutting down
+2022-07-18 22:35:35,178 INFO Waiting for application shutdown.
+2022-07-18 22:35:35,179 INFO Application shutdown complete.
+2022-07-18 22:35:35,180 INFO Finished server process [975]
+2022-07-18 22:35:35,385 INFO The tables were created or already exists
+2022-07-18 22:35:35,388 INFO 30s interval sites: []
+2022-07-18 22:35:35,388 INFO 60s interval sites: []
+2022-07-18 22:35:35,390 INFO The processes were started
+2022-07-18 22:35:35,577 INFO Started server process [979]
+2022-07-18 22:35:35,578 INFO Waiting for application startup.
+2022-07-18 22:35:35,579 INFO Application startup complete.
+2022-07-18 22:36:08,451 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 22:36:08,476 INFO Shutting down
+2022-07-18 22:36:08,577 INFO Waiting for application shutdown.
+2022-07-18 22:36:08,578 INFO Application shutdown complete.
+2022-07-18 22:36:08,578 INFO Finished server process [979]
+2022-07-18 22:36:08,817 INFO The tables were created or already exists
+2022-07-18 22:36:08,821 INFO 60 seconds interval sites: []
+2022-07-18 22:36:08,822 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:36:08,825 INFO The processes were started
+2022-07-18 22:36:09,004 INFO Started server process [983]
+2022-07-18 22:36:09,005 INFO Waiting for application startup.
+2022-07-18 22:36:09,006 INFO Application startup complete.
+2022-07-18 22:38:38,536 INFO Shutting down
+2022-07-18 22:38:38,637 INFO Waiting for application shutdown.
+2022-07-18 22:38:38,637 INFO Application shutdown complete.
+2022-07-18 22:38:38,638 INFO Finished server process [983]
+2022-07-18 22:38:38,684 INFO Stopping reloader process [884]
+2022-07-18 22:38:41,073 INFO The tables were created or already exists
+2022-07-18 22:38:41,076 INFO 60 seconds interval sites: []
+2022-07-18 22:38:41,077 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:38:41,079 INFO The processes were started
+2022-07-18 22:38:41,080 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:38:41,082 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:38:41,083 INFO Started reloader process [1005] using statreload
+2022-07-18 22:38:41,275 INFO The tables were created or already exists
+2022-07-18 22:38:41,278 INFO 60 seconds interval sites: []
+2022-07-18 22:38:41,278 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:38:41,280 INFO The processes were started
+2022-07-18 22:38:41,432 INFO Started server process [1009]
+2022-07-18 22:38:41,434 INFO Waiting for application startup.
+2022-07-18 22:38:41,434 INFO Application startup complete.
+2022-07-18 22:40:40,671 WARNING StatReload detected file change in 'api.py'. Reloading...
+2022-07-18 22:40:40,686 INFO Shutting down
+2022-07-18 22:40:40,787 INFO Waiting for application shutdown.
+2022-07-18 22:40:40,788 INFO Application shutdown complete.
+2022-07-18 22:40:40,789 INFO Finished server process [1009]
+2022-07-18 22:40:41,071 INFO The tables were created or already exists
+2022-07-18 22:40:41,074 INFO 60 seconds interval sites: [('cduser',)]
+2022-07-18 22:40:41,075 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:40:41,078 INFO The processes were started
+2022-07-18 22:40:41,297 INFO Started server process [1013]
+2022-07-18 22:40:41,299 INFO Waiting for application startup.
+2022-07-18 22:40:41,300 INFO Application startup complete.
+2022-07-18 22:46:16,177 INFO Shutting down
+2022-07-18 22:46:16,278 INFO Waiting for application shutdown.
+2022-07-18 22:46:16,278 INFO Application shutdown complete.
+2022-07-18 22:46:16,279 INFO Finished server process [1013]
+2022-07-18 22:46:16,358 INFO Stopping reloader process [1005]
+2022-07-18 22:46:18,448 INFO The tables were created or already exists
+2022-07-18 22:46:18,451 INFO 60 seconds interval sites: []
+2022-07-18 22:46:18,451 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:46:18,453 INFO The processes were started
+2022-07-18 22:46:18,455 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:46:18,457 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:46:18,458 INFO Started reloader process [1063] using statreload
+2022-07-18 22:46:18,636 INFO The tables were created or already exists
+2022-07-18 22:46:18,638 INFO 60 seconds interval sites: []
+2022-07-18 22:46:18,639 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:46:18,640 INFO The processes were started
+2022-07-18 22:46:18,778 INFO Started server process [1067]
+2022-07-18 22:46:18,780 INFO Waiting for application startup.
+2022-07-18 22:46:18,780 INFO Application startup complete.
+2022-07-18 22:49:38,442 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 22:49:38,455 INFO Shutting down
+2022-07-18 22:49:38,556 INFO Waiting for application shutdown.
+2022-07-18 22:49:38,556 INFO Application shutdown complete.
+2022-07-18 22:49:38,557 INFO Finished server process [1067]
+2022-07-18 22:49:38,796 INFO The tables were created or already exists
+2022-07-18 22:49:38,800 INFO 60 seconds interval sites: [('cduser',)]
+2022-07-18 22:49:38,800 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:49:38,802 INFO The processes were started
+2022-07-18 22:49:38,948 INFO Started server process [1072]
+2022-07-18 22:49:38,950 INFO Waiting for application startup.
+2022-07-18 22:49:38,951 INFO Application startup complete.
+2022-07-18 22:50:57,784 INFO Shutting down
+2022-07-18 22:50:57,885 INFO Waiting for application shutdown.
+2022-07-18 22:50:57,885 INFO Application shutdown complete.
+2022-07-18 22:50:57,886 INFO Finished server process [1072]
+2022-07-18 22:50:57,933 INFO Stopping reloader process [1063]
+2022-07-18 22:50:59,206 INFO The tables were created or already exists
+2022-07-18 22:50:59,210 INFO 60 seconds interval sites: []
+2022-07-18 22:50:59,210 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:50:59,213 INFO The processes were started
+2022-07-18 22:50:59,215 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 22:50:59,217 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 22:50:59,218 INFO Started reloader process [1096] using statreload
+2022-07-18 22:50:59,413 INFO The tables were created or already exists
+2022-07-18 22:50:59,417 INFO 60 seconds interval sites: []
+2022-07-18 22:50:59,417 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:50:59,420 INFO The processes were started
+2022-07-18 22:50:59,604 INFO Started server process [1100]
+2022-07-18 22:50:59,605 INFO Waiting for application startup.
+2022-07-18 22:50:59,606 INFO Application startup complete.
+2022-07-18 22:51:38,791 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 22:51:38,823 INFO Shutting down
+2022-07-18 22:51:38,924 INFO Waiting for application shutdown.
+2022-07-18 22:51:38,924 INFO Application shutdown complete.
+2022-07-18 22:51:38,925 INFO Finished server process [1100]
+2022-07-18 22:51:39,138 INFO The tables were created or already exists
+2022-07-18 22:51:39,141 INFO 60 seconds interval sites: []
+2022-07-18 22:51:39,141 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:51:39,144 INFO The processes were started
+2022-07-18 22:51:39,289 INFO Started server process [1104]
+2022-07-18 22:51:39,290 INFO Waiting for application startup.
+2022-07-18 22:51:39,291 INFO Application startup complete.
+2022-07-18 22:55:27,047 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 22:55:27,060 INFO Shutting down
+2022-07-18 22:55:27,161 INFO Waiting for application shutdown.
+2022-07-18 22:55:27,162 INFO Application shutdown complete.
+2022-07-18 22:55:27,162 INFO Finished server process [1104]
+2022-07-18 22:55:27,378 INFO The tables were created or already exists
+2022-07-18 22:55:27,381 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 22:55:27,382 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:55:27,384 INFO The processes were started
+2022-07-18 22:55:27,550 INFO Started server process [1129]
+2022-07-18 22:55:27,553 INFO Waiting for application startup.
+2022-07-18 22:55:27,553 INFO Application startup complete.
+2022-07-18 22:58:49,172 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 22:58:49,238 INFO Shutting down
+2022-07-18 22:58:49,339 INFO Waiting for application shutdown.
+2022-07-18 22:58:49,340 INFO Application shutdown complete.
+2022-07-18 22:58:49,340 INFO Finished server process [1129]
+2022-07-18 22:58:49,570 INFO The tables were created or already exists
+2022-07-18 22:58:49,574 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 22:58:49,574 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 22:58:49,577 INFO The processes were started
+2022-07-18 22:58:49,720 INFO Started server process [1213]
+2022-07-18 22:58:49,721 INFO Waiting for application startup.
+2022-07-18 22:58:49,722 INFO Application startup complete.
+2022-07-18 23:01:19,117 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 23:01:19,157 INFO Shutting down
+2022-07-18 23:01:19,258 INFO Waiting for application shutdown.
+2022-07-18 23:01:19,259 INFO Application shutdown complete.
+2022-07-18 23:01:19,259 INFO Finished server process [1213]
+2022-07-18 23:01:19,484 INFO The tables were created or already exists
+2022-07-18 23:01:19,488 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 23:01:19,488 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:01:19,490 INFO The processes were started
+2022-07-18 23:01:19,666 INFO Started server process [1272]
+2022-07-18 23:01:19,667 INFO Waiting for application startup.
+2022-07-18 23:01:19,668 INFO Application startup complete.
+2022-07-18 23:02:29,202 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 23:02:29,276 INFO Shutting down
+2022-07-18 23:02:29,377 INFO Waiting for application shutdown.
+2022-07-18 23:02:29,378 INFO Application shutdown complete.
+2022-07-18 23:02:29,379 INFO Finished server process [1272]
+2022-07-18 23:02:29,611 INFO The tables were created or already exists
+2022-07-18 23:02:29,615 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 23:02:29,615 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:02:29,617 INFO The processes were started
+2022-07-18 23:02:29,778 INFO Started server process [1311]
+2022-07-18 23:02:29,780 INFO Waiting for application startup.
+2022-07-18 23:02:29,781 INFO Application startup complete.
+2022-07-18 23:03:49,842 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:03:49,923 INFO Shutting down
+2022-07-18 23:03:50,024 INFO Waiting for application shutdown.
+2022-07-18 23:03:50,025 INFO Application shutdown complete.
+2022-07-18 23:03:50,026 INFO Finished server process [1311]
+2022-07-18 23:03:50,240 INFO The tables were created or already exists
+2022-07-18 23:03:50,243 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 23:03:50,244 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:03:50,246 INFO The processes were started
+2022-07-18 23:03:50,393 INFO Started server process [1385]
+2022-07-18 23:03:50,394 INFO Waiting for application startup.
+2022-07-18 23:03:50,395 INFO Application startup complete.
+2022-07-18 23:04:42,552 INFO Shutting down
+2022-07-18 23:04:42,653 INFO Waiting for application shutdown.
+2022-07-18 23:04:42,654 INFO Application shutdown complete.
+2022-07-18 23:04:42,654 INFO Finished server process [1385]
+2022-07-18 23:04:42,705 INFO Stopping reloader process [1096]
+2022-07-18 23:07:30,308 INFO The tables were created or already exists
+2022-07-18 23:07:30,311 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 23:07:30,311 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:07:30,314 INFO The processes were started
+2022-07-18 23:09:29,645 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 23:09:29,646 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:09:29,647 INFO Started reloader process [1484] using statreload
+2022-07-18 23:09:29,839 INFO The tables were created or already exists
+2022-07-18 23:09:29,843 INFO 60 seconds interval sites: [('cduser',), ('tecnovortex',)]
+2022-07-18 23:09:29,843 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:09:29,846 INFO The processes were started
+2022-07-18 23:09:30,017 INFO Started server process [1486]
+2022-07-18 23:09:30,018 INFO Waiting for application startup.
+2022-07-18 23:09:30,019 INFO Application startup complete.
+2022-07-18 23:11:53,936 INFO Shutting down
+2022-07-18 23:11:54,037 INFO Waiting for application shutdown.
+2022-07-18 23:11:54,038 INFO Application shutdown complete.
+2022-07-18 23:11:54,039 INFO Finished server process [1486]
+2022-07-18 23:11:54,090 INFO Stopping reloader process [1484]
+2022-07-18 23:11:54,091 ERROR Could not create the tables, please, check the database connection in the file database.ini
+2022-07-18 23:11:54,092 INFO No sites with 60 seconds interval
+2022-07-18 23:11:54,092 INFO No sites with 300 seconds interval
+2022-07-18 23:11:54,094 INFO The processes were started
+2022-07-18 23:12:01,895 INFO Will watch for changes in these directories: ['/mnt/c/Users/nacho/github/vibora']
+2022-07-18 23:12:01,896 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:12:01,897 INFO Started reloader process [1528] using statreload
+2022-07-18 23:12:02,083 INFO The tables were created or already exists
+2022-07-18 23:12:02,086 INFO 60 seconds interval sites: []
+2022-07-18 23:12:02,087 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:12:02,090 INFO The processes were started
+2022-07-18 23:12:02,246 INFO Started server process [1530]
+2022-07-18 23:12:02,247 INFO Waiting for application startup.
+2022-07-18 23:12:02,248 INFO Application startup complete.
+2022-07-18 23:14:36,949 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 23:14:37,023 INFO Shutting down
+2022-07-18 23:14:37,124 INFO Waiting for application shutdown.
+2022-07-18 23:14:37,125 INFO Application shutdown complete.
+2022-07-18 23:14:37,125 INFO Finished server process [1530]
+2022-07-18 23:14:37,342 INFO The tables were created or already exists
+2022-07-18 23:14:37,345 INFO 60 seconds interval sites: [('tecnovortex',)]
+2022-07-18 23:14:37,345 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:14:37,348 INFO The processes were started
+2022-07-18 23:14:37,582 INFO Started server process [1534]
+2022-07-18 23:14:37,583 INFO Waiting for application startup.
+2022-07-18 23:14:37,584 INFO Application startup complete.
+2022-07-18 23:14:59,030 WARNING StatReload detected file change in 'check_1m.py'. Reloading...
+2022-07-18 23:14:59,048 INFO Shutting down
+2022-07-18 23:14:59,149 INFO Waiting for application shutdown.
+2022-07-18 23:14:59,150 INFO Application shutdown complete.
+2022-07-18 23:14:59,151 INFO Finished server process [1534]
+2022-07-18 23:14:59,379 INFO The tables were created or already exists
+2022-07-18 23:14:59,382 INFO 60 seconds interval sites: [('tecnovortex',)]
+2022-07-18 23:14:59,382 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:14:59,384 INFO The processes were started
+2022-07-18 23:14:59,564 INFO Started server process [1538]
+2022-07-18 23:14:59,566 INFO Waiting for application startup.
+2022-07-18 23:14:59,568 INFO Application startup complete.
+2022-07-18 23:19:50,070 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:19:50,134 INFO Shutting down
+2022-07-18 23:19:50,235 INFO Waiting for application shutdown.
+2022-07-18 23:19:50,236 INFO Application shutdown complete.
+2022-07-18 23:19:50,236 INFO Finished server process [1538]
+2022-07-18 23:19:50,443 INFO The tables were created or already exists
+2022-07-18 23:19:50,446 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:19:50,446 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:19:50,448 INFO The processes were started
+2022-07-18 23:19:50,647 INFO Started server process [1582]
+2022-07-18 23:19:50,648 INFO Waiting for application startup.
+2022-07-18 23:19:50,649 INFO Application startup complete.
+2022-07-18 23:19:51,574 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:19:51,653 INFO Shutting down
+2022-07-18 23:19:51,755 INFO Waiting for application shutdown.
+2022-07-18 23:19:51,756 INFO Application shutdown complete.
+2022-07-18 23:19:51,757 INFO Finished server process [1582]
+2022-07-18 23:19:52,005 INFO The tables were created or already exists
+2022-07-18 23:19:52,009 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:19:52,010 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:19:52,013 INFO The processes were started
+2022-07-18 23:19:52,170 INFO Started server process [1596]
+2022-07-18 23:19:52,171 INFO Waiting for application startup.
+2022-07-18 23:19:52,172 INFO Application startup complete.
+2022-07-18 23:19:53,091 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:19:53,176 INFO Shutting down
+2022-07-18 23:19:53,277 INFO Waiting for application shutdown.
+2022-07-18 23:19:53,278 INFO Application shutdown complete.
+2022-07-18 23:19:53,279 INFO Finished server process [1596]
+2022-07-18 23:19:53,507 INFO The tables were created or already exists
+2022-07-18 23:19:53,510 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:19:53,511 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:19:53,513 INFO The processes were started
+2022-07-18 23:19:53,681 INFO Started server process [1610]
+2022-07-18 23:19:53,682 INFO Waiting for application startup.
+2022-07-18 23:19:53,683 INFO Application startup complete.
+2022-07-18 23:19:54,553 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:19:54,587 INFO Shutting down
+2022-07-18 23:19:54,688 INFO Waiting for application shutdown.
+2022-07-18 23:19:54,689 INFO Application shutdown complete.
+2022-07-18 23:19:54,690 INFO Finished server process [1610]
+2022-07-18 23:19:54,962 INFO The tables were created or already exists
+2022-07-18 23:19:54,966 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:19:54,966 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:19:54,969 INFO The processes were started
+2022-07-18 23:19:55,174 INFO Started server process [1624]
+2022-07-18 23:19:55,176 INFO Waiting for application startup.
+2022-07-18 23:19:55,177 INFO Application startup complete.
+2022-07-18 23:19:57,484 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:19:57,485 INFO Shutting down
+2022-07-18 23:19:57,586 INFO Waiting for application shutdown.
+2022-07-18 23:19:57,587 INFO Application shutdown complete.
+2022-07-18 23:19:57,588 INFO Finished server process [1624]
+2022-07-18 23:19:57,815 INFO The tables were created or already exists
+2022-07-18 23:19:57,818 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:19:57,818 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:19:57,821 INFO The processes were started
+2022-07-18 23:19:57,984 INFO Started server process [1638]
+2022-07-18 23:19:57,986 INFO Waiting for application startup.
+2022-07-18 23:19:57,986 INFO Application startup complete.
+2022-07-18 23:20:02,719 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:20:02,802 INFO Shutting down
+2022-07-18 23:20:02,903 INFO Waiting for application shutdown.
+2022-07-18 23:20:02,903 INFO Application shutdown complete.
+2022-07-18 23:20:02,904 INFO Finished server process [1638]
+2022-07-18 23:20:03,108 INFO The tables were created or already exists
+2022-07-18 23:20:03,111 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:20:03,111 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:20:03,113 INFO The processes were started
+2022-07-18 23:20:03,266 INFO Started server process [1662]
+2022-07-18 23:20:03,267 INFO Waiting for application startup.
+2022-07-18 23:20:03,268 INFO Application startup complete.
+2022-07-18 23:20:09,214 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:20:09,288 INFO Shutting down
+2022-07-18 23:20:09,389 INFO Waiting for application shutdown.
+2022-07-18 23:20:09,390 INFO Application shutdown complete.
+2022-07-18 23:20:09,391 INFO Finished server process [1662]
+2022-07-18 23:20:09,599 INFO The tables were created or already exists
+2022-07-18 23:20:09,602 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:20:09,602 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:20:09,604 INFO The processes were started
+2022-07-18 23:20:09,757 INFO Started server process [1676]
+2022-07-18 23:20:09,759 INFO Waiting for application startup.
+2022-07-18 23:20:09,760 INFO Application startup complete.
+2022-07-18 23:21:13,529 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:21:13,559 INFO Shutting down
+2022-07-18 23:21:13,661 INFO Waiting for application shutdown.
+2022-07-18 23:21:13,662 INFO Application shutdown complete.
+2022-07-18 23:21:13,662 INFO Finished server process [1676]
+2022-07-18 23:21:13,965 INFO The tables were created or already exists
+2022-07-18 23:21:13,968 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:21:13,969 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:21:13,971 INFO The processes were started
+2022-07-18 23:21:14,174 INFO Started server process [1770]
+2022-07-18 23:21:14,175 INFO Waiting for application startup.
+2022-07-18 23:21:14,176 INFO Application startup complete.
+2022-07-18 23:21:16,650 WARNING StatReload detected file change in 'main.py'. Reloading...
+2022-07-18 23:21:16,686 INFO Shutting down
+2022-07-18 23:21:16,787 INFO Waiting for application shutdown.
+2022-07-18 23:21:16,788 INFO Application shutdown complete.
+2022-07-18 23:21:16,788 INFO Finished server process [1770]
+2022-07-18 23:21:17,031 INFO The tables were created or already exists
+2022-07-18 23:21:17,034 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:21:17,035 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:21:17,037 INFO The processes were started
+2022-07-18 23:21:17,197 INFO Started server process [1784]
+2022-07-18 23:21:17,199 INFO Waiting for application startup.
+2022-07-18 23:21:17,200 INFO Application startup complete.
+2022-07-18 23:21:27,733 INFO Shutting down
+2022-07-18 23:21:27,834 INFO Waiting for application shutdown.
+2022-07-18 23:21:27,835 INFO Application shutdown complete.
+2022-07-18 23:21:27,836 INFO Finished server process [1784]
+2022-07-18 23:21:27,886 INFO Stopping reloader process [1528]
+2022-07-18 23:21:27,890 INFO The tables were created or already exists
+2022-07-18 23:21:27,892 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:21:27,893 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:21:27,895 INFO The processes were started
+2022-07-18 23:22:51,791 INFO Started server process [1947]
+2022-07-18 23:22:51,793 INFO Waiting for application startup.
+2022-07-18 23:22:51,794 INFO Application startup complete.
+2022-07-18 23:22:51,795 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:24:47,984 INFO Shutting down
+2022-07-18 23:24:48,085 INFO Waiting for application shutdown.
+2022-07-18 23:24:48,086 INFO Application shutdown complete.
+2022-07-18 23:24:48,086 INFO Finished server process [1947]
+2022-07-18 23:24:48,091 INFO The tables were created or already exists
+2022-07-18 23:24:48,095 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:24:48,095 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:24:48,098 INFO The processes were started
+2022-07-18 23:24:53,502 INFO Started server process [1982]
+2022-07-18 23:24:53,504 INFO Waiting for application startup.
+2022-07-18 23:24:53,505 INFO Application startup complete.
+2022-07-18 23:24:53,506 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:25:35,745 INFO Shutting down
+2022-07-18 23:25:35,846 INFO Waiting for application shutdown.
+2022-07-18 23:25:35,847 INFO Application shutdown complete.
+2022-07-18 23:25:35,848 INFO Finished server process [1982]
+2022-07-18 23:25:35,855 INFO The tables were created or already exists
+2022-07-18 23:25:35,859 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:25:35,860 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:25:35,862 INFO The processes were started
+2022-07-18 23:25:45,363 ERROR 'none'
+2022-07-18 23:25:51,323 ERROR 'none'
+2022-07-18 23:26:00,821 INFO Started server process [2030]
+2022-07-18 23:26:00,823 INFO Waiting for application startup.
+2022-07-18 23:26:00,823 INFO Application startup complete.
+2022-07-18 23:26:00,824 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:27:07,149 INFO Shutting down
+2022-07-18 23:27:07,250 INFO Waiting for application shutdown.
+2022-07-18 23:27:07,251 INFO Application shutdown complete.
+2022-07-18 23:27:07,252 INFO Finished server process [2030]
+2022-07-18 23:27:07,259 INFO The tables were created or already exists
+2022-07-18 23:27:07,263 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:27:07,263 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:27:07,266 INFO The processes were started
+2022-07-18 23:27:11,409 INFO Started server process [2199]
+2022-07-18 23:27:11,410 INFO Waiting for application startup.
+2022-07-18 23:27:11,411 INFO Application startup complete.
+2022-07-18 23:27:11,412 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:28:29,374 INFO Shutting down
+2022-07-18 23:28:29,475 INFO Waiting for application shutdown.
+2022-07-18 23:28:29,476 INFO Application shutdown complete.
+2022-07-18 23:28:29,476 INFO Finished server process [2199]
+2022-07-18 23:28:29,483 INFO The tables were created or already exists
+2022-07-18 23:28:29,486 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:28:29,486 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:28:29,489 INFO The processes were started
+2022-07-18 23:30:23,542 INFO Started server process [2364]
+2022-07-18 23:30:23,543 INFO Waiting for application startup.
+2022-07-18 23:30:23,544 INFO Application startup complete.
+2022-07-18 23:30:23,546 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:33:34,569 INFO Shutting down
+2022-07-18 23:33:34,670 INFO Waiting for application shutdown.
+2022-07-18 23:33:34,671 INFO Application shutdown complete.
+2022-07-18 23:33:34,671 INFO Finished server process [2364]
+2022-07-18 23:33:34,676 INFO The tables were created or already exists
+2022-07-18 23:33:34,679 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:33:34,680 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:33:34,684 INFO The processes were started
+2022-07-18 23:33:41,525 INFO The tables were created or already exists
+2022-07-18 23:33:41,529 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',)]
+2022-07-18 23:33:41,529 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:33:41,533 INFO The processes were started
+2022-07-18 23:33:41,688 INFO Started server process [2451]
+2022-07-18 23:33:41,689 INFO Waiting for application startup.
+2022-07-18 23:33:41,690 INFO Application startup complete.
+2022-07-18 23:33:41,691 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:40:37,469 INFO Shutting down
+2022-07-18 23:40:37,570 INFO Waiting for application shutdown.
+2022-07-18 23:40:37,571 INFO Application shutdown complete.
+2022-07-18 23:40:37,571 INFO Finished server process [2451]
+2022-07-18 23:40:40,557 INFO The tables were created or already exists
+2022-07-18 23:40:40,561 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-18 23:40:40,562 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:40:40,566 INFO The processes were started
+2022-07-18 23:40:40,762 INFO Started server process [2565]
+2022-07-18 23:40:40,763 INFO Waiting for application startup.
+2022-07-18 23:40:40,764 INFO Application startup complete.
+2022-07-18 23:40:40,765 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:45:11,760 INFO Shutting down
+2022-07-18 23:45:11,861 INFO Waiting for application shutdown.
+2022-07-18 23:45:11,862 INFO Application shutdown complete.
+2022-07-18 23:45:11,862 INFO Finished server process [2565]
+2022-07-18 23:45:13,448 INFO The tables were created or already exists
+2022-07-18 23:45:13,452 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-18 23:45:13,453 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:45:13,458 INFO The processes were started
+2022-07-18 23:45:13,669 INFO Started server process [2586]
+2022-07-18 23:45:13,671 INFO Waiting for application startup.
+2022-07-18 23:45:13,672 INFO Application startup complete.
+2022-07-18 23:45:13,673 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:47:03,432 INFO Shutting down
+2022-07-18 23:47:03,533 INFO Waiting for application shutdown.
+2022-07-18 23:47:03,533 INFO Application shutdown complete.
+2022-07-18 23:47:03,534 INFO Finished server process [2586]
+2022-07-18 23:47:04,938 INFO The tables were created or already exists
+2022-07-18 23:47:04,942 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-18 23:47:04,942 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:47:04,945 INFO The processes were started
+2022-07-18 23:47:05,106 INFO Started server process [2606]
+2022-07-18 23:47:05,107 INFO Waiting for application startup.
+2022-07-18 23:47:05,108 INFO Application startup complete.
+2022-07-18 23:47:05,110 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:48:27,681 INFO Shutting down
+2022-07-18 23:48:27,782 INFO Waiting for application shutdown.
+2022-07-18 23:48:27,783 INFO Application shutdown complete.
+2022-07-18 23:48:27,783 INFO Finished server process [2606]
+2022-07-18 23:49:24,550 INFO The tables were created or already exists
+2022-07-18 23:49:24,554 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-18 23:49:24,554 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-18 23:49:24,557 INFO The processes were started
+2022-07-18 23:49:24,695 INFO Started server process [2651]
+2022-07-18 23:49:24,696 INFO Waiting for application startup.
+2022-07-18 23:49:24,697 INFO Application startup complete.
+2022-07-18 23:49:24,698 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-18 23:53:13,849 INFO Shutting down
+2022-07-18 23:53:13,951 INFO Waiting for application shutdown.
+2022-07-18 23:53:13,952 INFO Application shutdown complete.
+2022-07-18 23:53:13,952 INFO Finished server process [2651]
+2022-07-19 19:19:52,052 INFO The tables were created or already exists
+2022-07-19 19:19:52,062 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 19:19:52,062 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-19 19:19:52,066 INFO The processes were started and the API server is running
+2022-07-19 19:19:52,359 INFO Started server process [555]
+2022-07-19 19:19:52,361 INFO Waiting for application startup.
+2022-07-19 19:19:52,362 INFO Application startup complete.
+2022-07-19 19:19:52,363 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 19:24:27,425 INFO Shutting down
+2022-07-19 19:24:27,526 INFO Waiting for application shutdown.
+2022-07-19 19:24:27,527 INFO Application shutdown complete.
+2022-07-19 19:24:27,527 INFO Finished server process [555]
+2022-07-19 19:37:47,741 INFO The tables were created or already exists
+2022-07-19 19:37:47,744 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 19:37:47,744 INFO 300 seconds (5 minutes) interval sites: []
+2022-07-19 19:37:47,746 INFO The processes were started and the API server is running
+2022-07-19 19:37:47,896 INFO Started server process [691]
+2022-07-19 19:37:47,898 INFO Waiting for application startup.
+2022-07-19 19:37:47,899 INFO Application startup complete.
+2022-07-19 19:37:47,900 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:08:55,248 INFO Shutting down
+2022-07-19 20:08:55,352 INFO Waiting for application shutdown.
+2022-07-19 20:08:55,354 INFO Application shutdown complete.
+2022-07-19 20:08:55,355 INFO Finished server process [691]
+2022-07-19 20:08:56,751 INFO The tables were created or already exists
+2022-07-19 20:08:56,755 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:08:56,755 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:08:56,759 INFO The processes were started and the API server is running
+2022-07-19 20:08:56,957 INFO Started server process [1271]
+2022-07-19 20:08:56,958 INFO Waiting for application startup.
+2022-07-19 20:08:56,959 INFO Application startup complete.
+2022-07-19 20:08:56,960 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:23:26,682 INFO Shutting down
+2022-07-19 20:23:26,783 INFO Waiting for application shutdown.
+2022-07-19 20:23:26,784 INFO Application shutdown complete.
+2022-07-19 20:23:26,784 INFO Finished server process [1271]
+2022-07-19 20:24:50,995 INFO The tables were created or already exists
+2022-07-19 20:24:51,000 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:24:51,000 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:24:51,005 INFO The processes were started and the API server is running
+2022-07-19 20:24:51,219 INFO Started server process [1684]
+2022-07-19 20:24:51,221 INFO Waiting for application startup.
+2022-07-19 20:24:51,223 INFO Application startup complete.
+2022-07-19 20:24:51,224 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:27:21,473 INFO Shutting down
+2022-07-19 20:27:21,574 INFO Waiting for application shutdown.
+2022-07-19 20:27:21,574 INFO Application shutdown complete.
+2022-07-19 20:27:21,575 INFO Finished server process [1684]
+2022-07-19 20:27:23,139 INFO The tables were created or already exists
+2022-07-19 20:27:23,142 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:27:23,142 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:27:23,145 INFO The processes were started and the API server is running
+2022-07-19 20:27:23,287 INFO Started server process [1773]
+2022-07-19 20:27:23,288 INFO Waiting for application startup.
+2022-07-19 20:27:23,289 INFO Application startup complete.
+2022-07-19 20:27:23,290 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:32:08,827 INFO Shutting down
+2022-07-19 20:32:08,928 INFO Waiting for application shutdown.
+2022-07-19 20:32:08,928 INFO Application shutdown complete.
+2022-07-19 20:32:08,929 INFO Finished server process [1773]
+2022-07-19 20:32:13,991 INFO The tables were created or already exists
+2022-07-19 20:32:13,994 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:32:13,994 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:32:13,997 INFO The processes were started and the API server is running
+2022-07-19 20:32:14,176 INFO Started server process [1926]
+2022-07-19 20:32:14,177 INFO Waiting for application startup.
+2022-07-19 20:32:14,178 INFO Application startup complete.
+2022-07-19 20:32:14,179 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:34:17,835 INFO Shutting down
+2022-07-19 20:34:17,936 INFO Waiting for application shutdown.
+2022-07-19 20:34:17,936 INFO Application shutdown complete.
+2022-07-19 20:34:17,937 INFO Finished server process [1926]
+2022-07-19 20:34:18,999 INFO The tables were created or already exists
+2022-07-19 20:34:19,003 INFO 60 seconds interval sites: [('tecnovortex',), ('cduser',), ('uberbin',)]
+2022-07-19 20:34:19,004 INFO 300 seconds (5 minutes) interval sites: [('influxdata',)]
+2022-07-19 20:34:19,008 INFO The processes were started and the API server is running
+2022-07-19 20:34:19,199 INFO Started server process [2100]
+2022-07-19 20:34:19,201 INFO Waiting for application startup.
+2022-07-19 20:34:19,202 INFO Application startup complete.
+2022-07-19 20:34:19,203 INFO Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2022-07-19 20:49:18,717 INFO Shutting down
+2022-07-19 20:49:18,817 INFO Waiting for application shutdown.
+2022-07-19 20:49:18,818 INFO Application shutdown complete.
+2022-07-19 20:49:18,819 INFO Finished server process [2100]
